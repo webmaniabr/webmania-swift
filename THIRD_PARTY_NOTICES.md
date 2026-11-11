@@ -1,0 +1,1 @@
+This package has no third-party package dependencies. It uses Swift and Apple platform frameworks supplied by the host SDK. Their licenses remain applicable. Synthetic test fixtures and the Webmania OpenAPI contracts are distributed under the proprietary LICENSE and Webmania terms.

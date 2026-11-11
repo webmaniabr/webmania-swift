@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+*.tar.gz
+.DS_Store
+examples/Consumer/.build/
+examples/Consumer/Package.resolved
+
+# macOS metadata
+._*
+examples/homologacao/.build/
+examples/homologacao/Package.resolved
